@@ -26,7 +26,14 @@ body{
 .retangulo9 a{
    margin-inline-start: 10px;
 }
-
+.espaço {
+   width: 129px;
+   height: 25px;
+   flex-shrink: 0;
+   border-radius: 16px;
+   background-color: rgba(211, 247, 255, 1);
+   margin-inline-end: 60px;
+}
 .titulo {
    font-family: jsMath-cmsy10;
    font-size: 58px;
@@ -77,8 +84,6 @@ nav {
    flex-wrap: nowrap;
    flex-direction: row;
 }
-
-
 .menu ul {
    display: flex;
    width: 221px;
@@ -91,7 +96,6 @@ nav {
    align-content: center;
    justify-content: center;
 }
-
 .retangulo1 {
    background: #11C2EE;
    margin-left: 81px;
@@ -183,7 +187,6 @@ a {
 .img4 img{
    width: 1200px;
 }
-
 .nvgmnl {
    position: absolute;
    width: 1200px;
@@ -541,6 +544,7 @@ a {
 
 /* Pagina Cadastro */
 
+
 .retangulo13 {
    width: 644px;
    height: 847px;
@@ -617,7 +621,6 @@ a {
    height: 1px;
    background: rgba(0, 0, 0, 0.28);
    margin-top: 40px;
-   
 }
 .meio {
    color: rgba(0, 0, 0, 0.28);
