@@ -393,7 +393,6 @@ a {
    height: 376px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -406,7 +405,6 @@ a {
    height: 604px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -419,7 +417,6 @@ a {
    height: 376px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -433,7 +430,6 @@ a {
    height: 1096px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -446,7 +442,6 @@ a {
    height: 1208px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -459,7 +454,6 @@ a {
    height: 820px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -472,7 +466,6 @@ a {
    height: 667px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -485,7 +478,6 @@ a {
    height: 998px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -498,7 +490,6 @@ a {
    height: 556px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -511,7 +502,6 @@ a {
    height: 460px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -524,7 +514,6 @@ a {
    height: 384px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -537,7 +526,6 @@ a {
    height: 272px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -550,7 +538,6 @@ a {
    height: 187px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -563,7 +550,6 @@ a {
    height: 217px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -575,7 +561,6 @@ a {
    width: 1093px;
    height: 296px;
    flex-shrink: 0;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -588,7 +573,6 @@ a {
    height: 321px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -601,7 +585,6 @@ a {
    height: 256px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -614,7 +597,6 @@ a {
    height: 305px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 32px;
    font-style: normal;
@@ -926,7 +908,7 @@ a {
 }
 
 
-@media (max-width:1420px) {
+@media (max-width:900px) {
 /* Cabeçalho */
 
 
@@ -1321,7 +1303,6 @@ a {
    height: 159px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1334,7 +1315,6 @@ a {
    height: 297px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1347,7 +1327,6 @@ a {
    height: 176px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1361,7 +1340,6 @@ a {
    height: 493px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1374,7 +1352,6 @@ a {
    height: 562px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1387,7 +1364,6 @@ a {
    height: 393px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1400,7 +1376,6 @@ a {
    height: 280px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1413,7 +1388,6 @@ a {
    height: 453px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1426,7 +1400,6 @@ a {
    height: 200px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1439,7 +1412,6 @@ a {
    height: 229px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1452,7 +1424,6 @@ a {
    height: 186px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1465,7 +1436,6 @@ a {
    height: 126px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1478,7 +1448,6 @@ a {
    height: 74px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1491,7 +1460,6 @@ a {
    height: 81px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1503,7 +1471,6 @@ a {
    width: 280px;
    height: 143px;
    flex-shrink: 0;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1516,7 +1483,6 @@ a {
    height: 155px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1529,7 +1495,6 @@ a {
    height: 106px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1542,7 +1507,6 @@ a {
    height: 143px;
    flex-shrink: 0;
    color: #000;
-   text-align: center;
    font-family: "Kaisei Tokumin";
    font-size: 12px;
    font-style: normal;
@@ -1861,4 +1825,5 @@ a {
    justify-content: center;
    margin-inline-end: 50px;
 }
+
 }
